@@ -205,11 +205,11 @@
     "sort-package-json": "^2.14.0",
     "storybook": "workspace:^",
     "storybook-addon-pseudo-states": "workspace:*",
-    "svelte": "^5.0.0-next.268",
+    "svelte": "^5.53.5",
     "ts-dedent": "^2.0.0",
     "typescript": "^5.8.3",
     "uuid": "^11.1.0",
-    "vite": "^7.0.4",
+    "vite": "^7.0.8",
     "vite-plugin-inspect": "^11.0.0",
     "vitest": "^3.2.4",
     "wait-on": "^8.0.3"
