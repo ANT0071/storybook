@@ -47,7 +47,7 @@
   "dependencies": {
     "@storybook/global": "^5.0.0",
     "ts-dedent": "^2.0.0",
-    "yaml": "^2.3.1"
+    "yaml": "^2.8.3"
   },
   "devDependencies": {
     "typescript": "^5.8.3"
